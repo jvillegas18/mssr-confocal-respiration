@@ -1,8 +1,12 @@
 # Intracellular INT-formazan is a dye-dependent optical modulator of nucleic-acid fluorescence in single marine prokaryoplankton cells
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22757989.svg)](https://doi.org/10.5281/zenodo.22757989)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+
 Analysis pipeline and per-cell datasets for Villegas-Mendoza *et al.*
 
-**DOI:** `[PENDING: Zenodo DOI — assigned when the v1.0.0 release is archived]`
+**DOI (this release, v1.0.0):** [10.5281/zenodo.22757989](https://doi.org/10.5281/zenodo.22757989) — the version cited in the manuscript.
+**DOI (all versions):** [10.5281/zenodo.22757988](https://doi.org/10.5281/zenodo.22757988) — always resolves to the latest release.
 **Raw image data:** BioImage Archive, accession **S-BIAD4069**
 
 ---
@@ -146,6 +150,8 @@ python run_pipeline.py 1 2 3 4 5
 If you use this software or these data, please cite the manuscript and the archived release. Machine-readable metadata is in [`CITATION.cff`](CITATION.cff).
 
 > Villegas-Mendoza J, Tiznado-Ramos F, Maske-Rubach H, Cajal-Medrano R, Marsal-Terés M, Loza-Álvarez P, Guerrero A. *Intracellular INT-formazan is a dye-dependent optical modulator of nucleic-acid fluorescence in single marine prokaryoplankton cells.* `[PENDING: journal reference once accepted]`
+
+> Villegas-Mendoza J, Tiznado-Ramos F, Maske-Rubach H, Cajal-Medrano R, Marsal-Terés M, Loza-Álvarez P, Guerrero A. (2026). *Analysis pipeline for: Intracellular INT-formazan is a dye-dependent optical modulator of nucleic-acid fluorescence in single marine prokaryoplankton cells* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22757989
 
 ## Authors
 
