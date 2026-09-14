@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "Analysis pipeline for: Intracellular INT-formazan is a dye-dependent optical modulator of nucleic-acid fluorescence in single marine prokaryoplankton cells"
+abstract: >-
+  Multi-session pipeline for confocal image conversion, single-cell segmentation,
+  MSSR computational super-resolution, per-cell descriptor extraction and
+  mixed-effects statistical modelling, together with the per-cell datasets from
+  which every figure and statistical table of the associated manuscript can be
+  reproduced.
+version: 1.0.0
+date-released: "2026-09-14"
+license: MIT
+repository-code: "https://github.com/jvillegas18/mssr-confocal-respiration"
+keywords:
+  - marine prokaryoplankton
+  - microbial respiration
+  - INT-formazan
+  - confocal microscopy
+  - MSSR super-resolution
+  - STED nanoscopy
+  - DAPI
+  - SYBR Green I
+  - single-cell imaging
+authors:
+  - given-names: Josué
+    family-names: Villegas-Mendoza
+    orcid: "https://orcid.org/0000-0001-5614-3375"
+    affiliation: "Facultad de Ciencias Marinas, Universidad Autónoma de Baja California (UABC), Ensenada, Baja California, Mexico"
+  - given-names: Fernando
+    family-names: Tiznado-Ramos
+    orcid: "https://orcid.org/0009-0008-0103-2959"
+    affiliation: "Facultad de Ciencias Marinas, Universidad Autónoma de Baja California (UABC), Ensenada, Baja California, Mexico"
+  - given-names: Helmut
+    family-names: Maske-Rubach
+    orcid: "https://orcid.org/0000-0002-8047-6484"
+    affiliation: "Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Ensenada, Baja California, Mexico"
+  - given-names: Ramón
+    family-names: Cajal-Medrano
+    orcid: "https://orcid.org/0009-0001-7172-3148"
+    affiliation: "Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Ensenada, Baja California, Mexico"
+  - given-names: Maria
+    family-names: Marsal-Terés
+    orcid: "https://orcid.org/0000-0001-9678-8717"
+    affiliation: "ICFO – Institut de Ciències Fotòniques, The Barcelona Institute of Science and Technology, Castelldefels (Barcelona), Spain"
+  - given-names: Pablo
+    family-names: Loza-Álvarez
+    orcid: "https://orcid.org/0000-0002-3129-1213"
+    affiliation: "ICFO – Institut de Ciències Fotòniques, The Barcelona Institute of Science and Technology, Castelldefels (Barcelona), Spain"
+  - given-names: Adán
+    family-names: Guerrero
+    orcid: "https://orcid.org/0000-0002-4389-5516"
+    affiliation: "Laboratorio Nacional de Microscopía Avanzada, Instituto de Biotecnología, Universidad Nacional Autónoma de México, Cuernavaca, Morelos, Mexico"

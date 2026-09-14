@@ -1,0 +1,10 @@
+bottle,temperature_C,respiration_uM_O2_h,is_control,notes
+1,16.0,2.69,False,Origen de INT 10
+4,17.1,1.44,False,Origen de INT 13 e imaginada directamente como BOD
+12,16.0,2.41,False,Origen de INT 7 y 8
+13,16.0,2.11,False,Origen de INT 9 e imaginada directamente como BOD
+16,14.1,1.89,False,Origen de INT 6
+19,14.1,0.54,False,Origen de INT 4 y 5
+20,17.1,1.28,False,Origen de INT 11 y 12
+21,14.1,0.39,False,Origen de INT 1 y 2
+24,14.1,0.47,False,Origen de INT 3 e imaginada directamente como BOD
