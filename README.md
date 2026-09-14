@@ -1,6 +1,6 @@
 # Intracellular INT-formazan is a dye-dependent optical modulator of nucleic-acid fluorescence in single marine prokaryoplankton cells
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22757989.svg)](https://doi.org/10.5281/zenodo.22757989)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22757989-blue.svg)](https://doi.org/10.5281/zenodo.22757989)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
 
 Analysis pipeline and per-cell datasets for Villegas-Mendoza *et al.*
